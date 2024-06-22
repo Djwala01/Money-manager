@@ -1,0 +1,14 @@
+.table-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  border-left: 1px solid #1e293b;
+  border-right: 1px solid #1e293b;
+  border-bottom: 1px solid #1e293b;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
